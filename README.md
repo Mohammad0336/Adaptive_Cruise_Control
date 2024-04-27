@@ -1,6 +1,6 @@
 # Adaptive Cruise Control
 
-An extension of the autonomous vehicle stack autoware to include adaptive cruise control and platooning capabilites
+An extension of the autonomous vehicle stack called autoware to include adaptive cruise control and platooning capabilites
 
 ## Motivation
 
