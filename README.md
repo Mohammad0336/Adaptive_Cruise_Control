@@ -33,6 +33,8 @@ The ACC system incorporates automobile platooning which allows for vehicles to t
 
 #### autoware.universe
 
+---
+
 For Autoware's general documentation, see [Autoware Documentation](https://autowarefoundation.github.io/autoware-documentation/).
 
 For detailed documents of Autoware Universe components, see [Autoware Universe Documentation](https://autowarefoundation.github.io/autoware.universe/).
